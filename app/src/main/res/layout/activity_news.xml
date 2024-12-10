@@ -16,7 +16,8 @@
             android:id="@+id/imgDetail"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            tools:src="@drawable/ayambakar" />
+            tools:src="@drawable/ayambakar"
+            tools:srcCompat="@tools:sample/avatars" />
 
         <RelativeLayout
             android:layout_width="match_parent"

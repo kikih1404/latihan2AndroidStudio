@@ -6,7 +6,7 @@ android {
     compileSdkVersion 30
 
     defaultConfig {
-        applicationId "id.example.latihan2_dafi"
+        applicationId "id.example.latihan2"
         minSdkVersion 16
         targetSdkVersion 30
         versionCode 1

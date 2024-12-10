@@ -28,7 +28,8 @@
                 android:layout_gravity="center"
                 android:layout_margin="10dp"
                 android:padding="10dp"
-                tools:src="@drawable/resepimg" />
+                tools:src="@drawable/resepimg"
+                tools:srcCompat="@tools:sample/avatars" />
         </androidx.cardview.widget.CardView>
 
         <androidx.recyclerview.widget.RecyclerView
